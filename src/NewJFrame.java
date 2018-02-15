@@ -55,7 +55,7 @@ public class NewJFrame extends javax.swing.JFrame {
         jButton2.setText("Kaixo");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton2ActionPerformed(evt);
+                jButton1ActionPerformed(evt);
             }
         });
         jPanel1.add(jButton2);
@@ -85,13 +85,6 @@ public class NewJFrame extends javax.swing.JFrame {
         d.show(true);
     }//GEN-LAST:event_jButton1ActionPerformed
 
-    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        System.out.println("Kaixo");
-    }//GEN-LAST:event_jButton2ActionPerformed
-
-    /**S
-     * @param args the command line arguments
-     */
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
