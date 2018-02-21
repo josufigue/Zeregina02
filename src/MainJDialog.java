@@ -100,7 +100,7 @@ public class MainJDialog extends javax.swing.JDialog {
             java.util.logging.Logger.getLogger(MainJDialog.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(MainJDialog.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        }
+        }//asdasd
         //</editor-fold>
         //</editor-fold>
 
